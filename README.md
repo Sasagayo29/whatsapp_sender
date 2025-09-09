@@ -1,3 +1,5 @@
+# whatsapp_sender
+
 WhatsApp Sender - Automação de Mensagens e Arquivos
 Este é um projeto de automação em Python para enviar mensagens e arquivos em massa através do WhatsApp Web, usando a biblioteca Selenium. O projeto é modular, com uma interface gráfica simples (Tkinter) e um sistema robusto de logs.
 
